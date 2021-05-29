@@ -1,5 +1,5 @@
-.team {
-    background-image: url("../../img/background_team.jpg");
+.teams {
+    background-image: url("../../img/background_teams.jpg");
     height: calc(100vh - 100px);
     background-repeat: no-repeat;
     background-size: cover;
